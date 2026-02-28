@@ -4,7 +4,7 @@ A functional calculator built with HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-https://YOUR_USERNAME.github.io/js-calculator/
+https://github.com/AdamaSANE/js-calculator-Adama-SANE.git
 
 ## Features
 
